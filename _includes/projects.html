@@ -1,0 +1,23 @@
+{% if site.data.projects %}
+<section class="section projects-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+  {% for project in site.data.projects %}
+    <div class="item">
+      <table border="0">
+          <tr>
+            <td colspan="4">{{ project.title }}</br>
+                {% if project.tagline %}
+                    <span class="project-tagline">{{ project.tagline }}</span>
+                {% endif %}
+            </td>
+            <td align="center"><img src="{{ project.img_link }}" width="{{ project.img_width }}" height="{{ project.img_height }}"></td>
+          </tr>
+      </table>
+
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

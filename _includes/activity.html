@@ -1,0 +1,23 @@
+{% if site.data.activities %}
+<section class="section Activities-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Activities</h2>
+
+{% for activity in site.data.activities %}
+  <div class="item">
+    <div class="meta">
+
+      <div class="upper-row">
+
+        <h3 class="job-title">{{ activity.name }}</h3>
+        <div class="time">{{ activity.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ activity.company }}</div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
