@@ -1,11 +1,33 @@
 - experience:
-  role: 안드로이드 스쿨 4기 수강
+  role: 안드로이드 스쿨 4기 수강, 장학생
   time: 2017.09 - 2017.12
   company: 패스트캠퍼스, 대한민국
   details: 4개월간 전일제(10:00 - 17:00) 안드로이드 스쿨 참여하며 안드로이드 학습 및 프로젝트 진행</br>
     <li>학습 내용 블로그 정리 (<a href="https://heepie.tistory.com">heepie.tistory.com</a>)</li>
-    <li><a href="https://github.com/Heepie/SoundHub">SoundHub</a></li>
-    <li><a href="https://github.com/Heepie/Pholar">Pholar</a></li>
+    <li>SoundHub</li>
+        <ol>
+            <li>진행기간&#58; 2017.11.27 ~ 2017.12.31(한달)</li>
+            <li>주요내용&#58; Github처럼 각각 음악 파일을 합쳐, 더 좋은 음악을 만드는 플랫폼</li>
+            <li>공헌한점&#58; 설계 , 서버와 네트워크 통신, 음악 동시 재생 및 합성</li>
+            <li>사용Skill&#58; MVVM, Data Binding, RxJava2, ,Lambda, Glide, Retrofit, RESTFul, 머티리얼 디자인</li>
+            <li>결과/성과</li>
+            <ul>
+                <li><a href="http://www.youtube.com/embed/toBCfZmIJk0">결과 영상</a></li>
+                <li><a href="https://github.com/Heepie/SoundHub">결과 코드</a></li>
+                <li><a href="https://nachwon.gitbooks.io/soundhub/content/">서버 API</a></li>
+            </ul>
+        </ol>
+    <li>Pholar</li>
+        <ol>
+            <li>진행기간&#58; 2017.10.18 ~ 2017.10.25(일주일)</li>
+            <li>주요내용&#58; 네이버의 앨범 기반의 SNS “PHOLAR” 앱 기능 따라 구현</li>
+            <li>공헌한점&#58; Firebase와 데이터 통신</li>
+            <li>사용Skill&#58; Lambda, Glide, Retrofit, RESTFul, Firebase</li>
+            <li>결과/성과</li>
+            <ul>
+                <li><a href="https://github.com/Heepie/Pholar">결과 코드</a></li>
+            </ul>
+        </ol>
 
 - experience:
   role: SAP MM(자재 모듈) 담당자, 사원
