@@ -45,4 +45,24 @@
   company: KOTRA - IOLITE Technology Pvt Ltd, 인도
   details: 2개 안드로이드 프로젝트 참여
     <li>캠퍼스 네이게이션</li>
+        <ol>
+            <li>진행기간&#58; 2015.06.01 ~ 2015.07.31(두달)</li>
+            <li>주요내용&#58; 캠퍼스의 위치 및 시설 정보를 알려주는 앱</li>
+            <li>공헌한점&#58; 설계, Apache서버 데이터 통신, Google Map 활용 마커 입력</li>
+            <li>사용Skill&#58; Google Map, JSON 데이터 파싱 및 가공</li>
+            <li>결과/성과</li>
+            <ul>
+                <li><a href="https://github.com/Heepie/CampusNavigation">스크린샷</a></li>
+            </ul>
+        </ol>
     <li>폐지 창작물 거래 장터</li>
+        <ol>
+            <li>진행기간&#58; 2015.08.16 ~ 2015.09.31(한달)</li>
+            <li>주요내용&#58; 소외 계층 어린이 만든 폐지 창작물을 소개 및 판매 도와주는 앱</li>
+            <li>공헌한점&#58; 설계, Apache서버 데이터 통신</li>
+            <li>사용Skill&#58; JSON 데이터 파싱 및 가공</li>
+            <li>결과/성과</li>
+            <ul>
+                <li><a href="https://github.com/Heepie/CSAShop">스크린샷</a></li>
+            </ul>
+        </ol>
