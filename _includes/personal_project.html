@@ -1,0 +1,6 @@
+<div class="container projects-container">
+    <h3 style="text-align:left">{{ site.projects_title | default: "개인 프로젝트" }}</h3>
+    {% for project in site.data.personal_project %}
+      {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
+    {% endfor %}
+</div>

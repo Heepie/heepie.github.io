@@ -1,0 +1,42 @@
+- layout: left
+  name: 오렌지 플레이어
+  job_title: Android
+  dates: 2017.10 ~ 현재
+  quote: >
+    비디오를 백그라운드에서 재생할 수 있는 앱
+  description: | # this will include new lines to allow paragraphs
+    * [Play Store](https://play.google.com/store/apps/details?id=kr.heepie.musicplayer)
+    * [개발 과정](https://velog.io/@heepie/series/%EC%98%A4%EB%A0%8C%EC%A7%80%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4)
+    * 사용 기술: Kotlin, Room, Coroutine, Hilt, MotionLayout, Firebase
+
+- layout: left
+  name: 알림 모아
+  job_title: Android
+  dates: 2020.09 ~ 21.01
+  quote: >
+    알림을 모아 미리 확인 할 수 있는 앱
+  description: | # this will include new lines to allow paragraphs
+    * [Play Store](https://play.google.com/store/apps/details?id=me.heepie.notipreviewer)
+    * [개발 과정](https://velog.io/@heepie/series/Android-%EC%95%8C%EB%A6%BC%EB%AA%A8%EC%95%84-20.09-ing-httpsplay.google.comstoreappsdetailsidme.heepie.notipreviewer)
+    * 사용 기술: Kotlin, Room, Paging library, Firebase
+
+- layout: left
+  name: 감정 일기
+  job_title: Flutter
+  dates: 2021.12 ~ 현재
+  quote: >
+    힘든 감정을 적고 자신의 감정을 되돌아 볼 수 있는 앱
+  description: | # this will include new lines to allow paragraphs
+    * [Play Store](https://play.google.com/store/apps/details?id=me.heepie.emotiondiary)
+    * [개발 과정](https://velog.io/@heepie/series/Flutter-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0-21.12-ing)
+    * 사용 기술: Dart, Firebase
+
+- layout: left
+  name: 웨일 북마크 Shortcut
+  job_title: Python
+  dates: 2020.02
+  quote: >
+    북마크 바로 접근 스크립트 (알프레드 워크플로우)
+  description: | # this will include new lines to allow paragraphs
+    * [개발 과정](https://velog.io/@heepie/series/Python-%EC%9B%A8%EC%9D%BC-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-20.02-httpsgithub.comHeepieWhaleBookmark-workflow)
+    * 사용 기술: Python

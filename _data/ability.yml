@@ -1,0 +1,43 @@
+- layout: left
+  name: 서비스 운영
+  description: | # this will include new lines to allow paragraphs
+    * LINE Keep 서비스 운영 (2020.04 ~ 현재)
+      * 13만 크래쉬 Hotfix (7일간) 경험
+    * 오렌지 플레이어(MAU 6,500명, 개인 프로젝트) 운영 (2019.12 ~ 현재)
+
+- layout: left
+  name: 기능 개발
+  description: | # this will include new lines to allow paragraphs
+    * 개발
+      * 설계 문서화
+      * 일정 산정 및 개발 팀원 간 공유
+      * DB Table 설계
+      * Sanity Test
+      * 하위 호환성 확인
+      * Rollback plan 확인
+    * 협업
+      * 타 플랫폼 (iOS, Desktop)과 스펙 협의
+      * 서버팀과 API 협의
+      * 기획팀과 기능 협의
+      * QA팀과 Test Case 논의
+
+- layout: left
+  name: 모듈화 및 새로운 OS 대응
+  description: | # this will include new lines to allow paragraphs
+    * LINE Keep 서비스 모듈화
+      * LINE 전체 빌드 속도 향상
+      * LINE Keep 단독 빌드 환경으로 업무 환경 개선
+    * 새로운 OS 대응
+      * Scoped Storage
+      * Dark Mode
+      * Foldable Device
+      * Multi Window
+
+- layout: left
+  name: 기술 공유 및 커뮤니케이션
+  description: | # this will include new lines to allow paragraphs
+    * 다양한 국가 개발자(일본, 태국, 베트남, 인도 등)와 커뮤니케이션
+    * [2021 LINE Client Day 발표자](https://engineering.linecorp.com/ko/blog/line-client-day-2021/)
+    * [2020 LINE Android Day Staff](https://engineering.linecorp.com/ko/blog/line-android-day-1-recap/)
+    * 2019 LINE Client Global Workshop Staff 및 해커톤 발표자
+    * 2018 LINE Timeline Global Workshop Staff

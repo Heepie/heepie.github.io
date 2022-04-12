@@ -1,0 +1,63 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+# Personal info
+name: 문희주
+title: Client Developer (Android, Flutter)
+email: gheepie@gmail.com
+website: https://velog.io/@heepie/series
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  heepie
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: 소개
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  <mark>사람을 먼저 생각</mark>하는 6년차 개발자 문희주입니다. **MAU 1억 9천만명**의 라인 앱에서 Android를 함께 개발하고 있습니다.<br>
+  현재 **MAU 4,000만명**의 LINE Keep Android 서비스를 운영 및 기능 개발 업무를 주요 업무로 담당하고 있습니다.
+  개인의 성장이 회사에 경쟁력이라고 생각해 개인 프로젝트로 **MAU 6,500명**의 오렌지 플레이어를 운영하고 있습니다.
+  <br>
+  <br>
+  개발자에게 가장 중요한 것은 사용자와의 <mark>소통</mark>이라고 생각합니다.
+  아무리 기술적으로 뛰어난 프로그램이라도 사용자의 만족을 끌어내지 못하면 소용없기 때문입니다.
+  저는 사용자의 의견을 수용하며 더 나은 프로그램을 만들어 나가는 과정에서 보람을 느낍니다.
+  또한, 사용자의 만족하는 모습을 볼 때 개발자로서 자부심을 느낍니다.
+  꾸준히 성장하는 개발자가 될 것입니다.
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
