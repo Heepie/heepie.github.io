@@ -38,5 +38,6 @@
   quote: >
     북마크 바로 접근 스크립트 (알프레드 워크플로우)
   description: | # this will include new lines to allow paragraphs
+    * [Github](https://github.com/Heepie/WhaleBookmark-workflow)
     * [개발 과정](https://velog.io/@heepie/series/Python-%EC%9B%A8%EC%9D%BC-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-20.02-httpsgithub.comHeepieWhaleBookmark-workflow)
     * 사용 기술: Python
