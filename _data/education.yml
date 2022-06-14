@@ -4,9 +4,9 @@
   quote: >
     4개월간 전일제(10:00 - 17:00) 안드로이드 부트 캠프
   description: | # this will include new lines to allow paragraphs
-    * 학습 내용 [블로그](https://heepie.tistory.com) 정리
     * [SoundHub](https://github.com/Heepie/SoundHub) 앱 개발
     * [Pholar](https://github.com/Heepie/Pholar) 앱 개발
+    * 학습 내용 [블로그](https://heepie.tistory.com) 정리
 
 - layout: left
   name: 한국외국어대학교
