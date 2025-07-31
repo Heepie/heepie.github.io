@@ -6,7 +6,8 @@
   quote: >
     MAU 1억 9천만, 글로벌 메시지 기반 플랫폼
   description: | # this will include new lines to allow paragraphs
-    * LINE Keep 서비스 운영 & 기능 개발 (MAU 4,000만, 2020.04 ~ 현재)
+    * LINE Global Live Platform 통계 데이터 설계 & 개발 (MAU 100만, 2022.10 ~ 현재)
+    * LINE Keep 서비스 운영 & 기능 개발 (MAU 4,000만, 2020.04 ~ 2022.10)
     * LINE Timeline 기능 개발 (MAU 12,000만, 2018.03 ~ 2020.04)
     * 코드 리뷰 & 아키텍처 개선 등 개발 환경 개선
     * 모듈화 및 새로운 OS 대응

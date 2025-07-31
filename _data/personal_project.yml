@@ -10,24 +10,23 @@
     * 사용 기술: Kotlin, Room, Coroutine, Hilt, MotionLayout, Firebase
 
 - layout: left
-  name: 알림 모아
-  job_title: Android
-  dates: 2020.09 ~ 21.01
+  name: beBetter
+  job_title: Flutter
+  dates: 2024.06 ~ 현재
   quote: >
-    알림을 모아 미리 확인 할 수 있는 앱
+    통계 데이터를 통해 더 나은 나를 만들어주는 TODO 앱
   description: | # this will include new lines to allow paragraphs
-    * [Play Store](https://play.google.com/store/apps/details?id=me.heepie.notipreviewer)
-    * [개발 과정](https://velog.io/@heepie/series/Android-%EC%95%8C%EB%A6%BC%EB%AA%A8%EC%95%84-20.09-ing-httpsplay.google.comstoreappsdetailsidme.heepie.notipreviewer)
-    * 사용 기술: Kotlin, Room, Paging library, Firebase
+    * [Play Store](https://play.google.com/store/apps/details?id=me.heepie.bebetter)
+    * [App Store](https://apps.apple.com/kr/app/bebetter-todo/id6657991509)
+    * 사용 기술: Dart, Firebase
 
 - layout: left
   name: 감정 일기
   job_title: Flutter
-  dates: 2021.12 ~ 현재
+  dates: 2021.12 ~ 2023.01
   quote: >
     힘든 감정을 적고 자신의 감정을 되돌아 볼 수 있는 앱
   description: | # this will include new lines to allow paragraphs
-    * [Play Store](https://play.google.com/store/apps/details?id=me.heepie.emotiondiary)
     * [개발 과정](https://velog.io/@heepie/series/Flutter-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0-21.12-ing)
     * 사용 기술: Dart, Firebase
 
